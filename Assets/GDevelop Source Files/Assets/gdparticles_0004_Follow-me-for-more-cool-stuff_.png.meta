@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: c8635914b6ef4c54bb66f0cebf660073
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9099140020716557457
+    second: gdparticles_0004_Follow-me-for-more-cool-stuff__0
+  - first:
+      213: -6151259109310485364
+    second: gdparticles_0004_Follow-me-for-more-cool-stuff__1
+  - first:
+      213: -5808622080874280561
+    second: gdparticles_0004_Follow-me-for-more-cool-stuff__2
+  - first:
+      213: -5188437724972639563
+    second: gdparticles_0004_Follow-me-for-more-cool-stuff__3
+  - first:
+      213: -2482573289967892283
+    second: gdparticles_0004_Follow-me-for-more-cool-stuff__4
+  - first:
+      213: 3256540226025616884
+    second: gdparticles_0004_Follow-me-for-more-cool-stuff__5
+  - first:
+      213: -885637655918933251
+    second: gdparticles_0004_Follow-me-for-more-cool-stuff__6
+  - first:
+      213: -4592062598152651357
+    second: gdparticles_0004_Follow-me-for-more-cool-stuff__7
+  - first:
+      213: 7427118000446540886
+    second: gdparticles_0004_Follow-me-for-more-cool-stuff__8
+  - first:
+      213: -4789187170977918752
+    second: gdparticles_0004_Follow-me-for-more-cool-stuff__9
+  - first:
+      213: 7806345706962924360
+    second: gdparticles_0004_Follow-me-for-more-cool-stuff__10
+  - first:
+      213: 9039562880565235953
+    second: gdparticles_0004_Follow-me-for-more-cool-stuff__11
+  - first:
+      213: -457202943498884968
+    second: gdparticles_0004_Follow-me-for-more-cool-stuff__12
+  - first:
+      213: 1526291674494677274
+    second: gdparticles_0004_Follow-me-for-more-cool-stuff__13
+  - first:
+      213: -3616709313335654523
+    second: gdparticles_0004_Follow-me-for-more-cool-stuff__14
+  - first:
+      213: -521183342889529036
+    second: gdparticles_0004_Follow-me-for-more-cool-stuff__15
+  - first:
+      213: -6161219092957436866
+    second: gdparticles_0004_Follow-me-for-more-cool-stuff__16
+  - first:
+      213: -2985677773449102892
+    second: gdparticles_0004_Follow-me-for-more-cool-stuff__17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gdparticles_0004_Follow-me-for-more-cool-stuff__0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b26a74c5c59b180800000000000000
+      internalID: -9099140020716557457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0004_Follow-me-for-more-cool-stuff__1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ca92c4e6652aaa0800000000000000
+      internalID: -6151259109310485364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0004_Follow-me-for-more-cool-stuff__2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f898ffa2ef0a36fa0800000000000000
+      internalID: -5808622080874280561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0004_Follow-me-for-more-cool-stuff__3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba15cfe067fef7b0800000000000000
+      internalID: -5188437724972639563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0004_Follow-me-for-more-cool-stuff__4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8479afeb02c8dd0800000000000000
+      internalID: -2482573289967892283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0004_Follow-me-for-more-cool-stuff__5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5f609e41e813d20800000000000000
+      internalID: 3256540226025616884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0004_Follow-me-for-more-cool-stuff__6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa0e378e3595b3f0800000000000000
+      internalID: -885637655918933251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0004_Follow-me-for-more-cool-stuff__7
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adf0c29567b540c0800000000000000
+      internalID: -4592062598152651357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0004_Follow-me-for-more-cool-stuff__8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c8689887c621760800000000000000
+      internalID: 7427118000446540886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0004_Follow-me-for-more-cool-stuff__9
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0d00764a3698db0800000000000000
+      internalID: -4789187170977918752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0004_Follow-me-for-more-cool-stuff__10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843bb698f06b55c60800000000000000
+      internalID: 7806345706962924360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0004_Follow-me-for-more-cool-stuff__11
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0d5e4db8af27d70800000000000000
+      internalID: 9039562880565235953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0004_Follow-me-for-more-cool-stuff__12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8986c726850b7a9f0800000000000000
+      internalID: -457202943498884968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0004_Follow-me-for-more-cool-stuff__13
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1134e9f03a7e2510800000000000000
+      internalID: 1526291674494677274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0004_Follow-me-for-more-cool-stuff__14
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58708caaa0edecdc0800000000000000
+      internalID: -3616709313335654523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0004_Follow-me-for-more-cool-stuff__15
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4311830d28264c8f0800000000000000
+      internalID: -521183342889529036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0004_Follow-me-for-more-cool-stuff__16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34eae4e0e3fe7aa0800000000000000
+      internalID: -6161219092957436866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0004_Follow-me-for-more-cool-stuff__17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d979c342edb096d0800000000000000
+      internalID: -2985677773449102892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gdparticles_0004_Follow-me-for-more-cool-stuff__0: -9099140020716557457
+      gdparticles_0004_Follow-me-for-more-cool-stuff__1: -6151259109310485364
+      gdparticles_0004_Follow-me-for-more-cool-stuff__10: 7806345706962924360
+      gdparticles_0004_Follow-me-for-more-cool-stuff__11: 9039562880565235953
+      gdparticles_0004_Follow-me-for-more-cool-stuff__12: -457202943498884968
+      gdparticles_0004_Follow-me-for-more-cool-stuff__13: 1526291674494677274
+      gdparticles_0004_Follow-me-for-more-cool-stuff__14: -3616709313335654523
+      gdparticles_0004_Follow-me-for-more-cool-stuff__15: -521183342889529036
+      gdparticles_0004_Follow-me-for-more-cool-stuff__16: -6161219092957436866
+      gdparticles_0004_Follow-me-for-more-cool-stuff__17: -2985677773449102892
+      gdparticles_0004_Follow-me-for-more-cool-stuff__2: -5808622080874280561
+      gdparticles_0004_Follow-me-for-more-cool-stuff__3: -5188437724972639563
+      gdparticles_0004_Follow-me-for-more-cool-stuff__4: -2482573289967892283
+      gdparticles_0004_Follow-me-for-more-cool-stuff__5: 3256540226025616884
+      gdparticles_0004_Follow-me-for-more-cool-stuff__6: -885637655918933251
+      gdparticles_0004_Follow-me-for-more-cool-stuff__7: -4592062598152651357
+      gdparticles_0004_Follow-me-for-more-cool-stuff__8: 7427118000446540886
+      gdparticles_0004_Follow-me-for-more-cool-stuff__9: -4789187170977918752
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

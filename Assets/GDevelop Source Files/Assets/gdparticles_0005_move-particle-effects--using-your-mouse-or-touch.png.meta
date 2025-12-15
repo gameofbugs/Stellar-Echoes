@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 5c6f96eb49ae08c4c9dc8e7e52b1c558
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2828553244283276349
+    second: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_0
+  - first:
+      213: 4351606518516678876
+    second: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_1
+  - first:
+      213: -3936331795531671765
+    second: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_2
+  - first:
+      213: -1749388290831996485
+    second: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_3
+  - first:
+      213: 7344391041410226183
+    second: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_4
+  - first:
+      213: -4632474328670881909
+    second: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_5
+  - first:
+      213: -1629027387804561364
+    second: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_6
+  - first:
+      213: 5838804476854930320
+    second: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_7
+  - first:
+      213: -4401874474346515239
+    second: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_8
+  - first:
+      213: 3835172634357881884
+    second: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_9
+  - first:
+      213: 6006329164365969570
+    second: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_10
+  - first:
+      213: -8076811475183411993
+    second: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_11
+  - first:
+      213: 3693417342411185014
+    second: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_12
+  - first:
+      213: 3515456423187818448
+    second: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_13
+  - first:
+      213: 1660034583598707091
+    second: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_14
+  - first:
+      213: 877247357732970299
+    second: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_15
+  - first:
+      213: 7994942527042000817
+    second: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_16
+  - first:
+      213: 8104400778143436612
+    second: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_17
+  - first:
+      213: 1890418266555814261
+    second: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_18
+  - first:
+      213: 8178783274904253699
+    second: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_19
+  - first:
+      213: 8068360549887742006
+    second: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_20
+  - first:
+      213: 451006891519082241
+    second: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_21
+  - first:
+      213: 4395261866359114911
+    second: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_22
+  - first:
+      213: 4476263376049039311
+    second: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_23
+  - first:
+      213: 8340559920868726712
+    second: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_24
+  - first:
+      213: -4992539277364503749
+    second: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_25
+  - first:
+      213: -3959052772525216786
+    second: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c377368fc5feb8d0800000000000000
+      internalID: -2828553244283276349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 19
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd00672a213046c30800000000000000
+      internalID: 4351606518516678876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 16
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27524966175f59c0800000000000000
+      internalID: -3936331795531671765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 19
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb92bbe3e9ce8b7e0800000000000000
+      internalID: -1749388290831996485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 19
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70851da6db48ce560800000000000000
+      internalID: 7344391041410226183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 19
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87b478542526bfb0800000000000000
+      internalID: -4632474328670881909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_6
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 19
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20d684c8388469e0800000000000000
+      internalID: -1629027387804561364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 19
+        width: 52
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b06e38cb9970150800000000000000
+      internalID: 5838804476854930320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d477badc7669e2c0800000000000000
+      internalID: -4401874474346515239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c533bf035493530800000000000000
+      internalID: 3835172634357881884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a83a165d84ca5350800000000000000
+      internalID: 6006329164365969570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecd4ef81c669ef80800000000000000
+      internalID: -8076811475183411993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b9fad1187a14330800000000000000
+      internalID: 3693417342411185014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7a97fbdf869c030800000000000000
+      internalID: 3515456423187818448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391b34698a0a90710800000000000000
+      internalID: 1660034583598707091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fd2d1f2db9c2c00800000000000000
+      internalID: 877247357732970299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7900c8eddb3fe60800000000000000
+      internalID: 7994942527042000817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_17
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f83aa919d987070800000000000000
+      internalID: 8104400778143436612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_18
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57118f6c56d1c3a10800000000000000
+      internalID: 1890418266555814261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_19
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305f2933e00e08170800000000000000
+      internalID: 8178783274904253699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63095df0c2398ff60800000000000000
+      internalID: 8068360549887742006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_21
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f7f38d06c424600800000000000000
+      internalID: 451006891519082241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_22
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cc72f516b1ffc30800000000000000
+      internalID: 4395261866359114911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc76e7203d1ee1e30800000000000000
+      internalID: 4476263376049039311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_24
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b79d3fce0f9fb370800000000000000
+      internalID: 8340559920868726712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_25
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bd0859affe6bab0800000000000000
+      internalID: -4992539277364503749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_26
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebeb96ba7e9e09c0800000000000000
+      internalID: -3959052772525216786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_0: -2828553244283276349
+      gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_1: 4351606518516678876
+      gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_10: 6006329164365969570
+      gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_11: -8076811475183411993
+      gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_12: 3693417342411185014
+      gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_13: 3515456423187818448
+      gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_14: 1660034583598707091
+      gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_15: 877247357732970299
+      gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_16: 7994942527042000817
+      gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_17: 8104400778143436612
+      gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_18: 1890418266555814261
+      gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_19: 8178783274904253699
+      gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_2: -3936331795531671765
+      gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_20: 8068360549887742006
+      gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_21: 451006891519082241
+      gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_22: 4395261866359114911
+      gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_23: 4476263376049039311
+      gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_24: 8340559920868726712
+      gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_25: -4992539277364503749
+      gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_26: -3959052772525216786
+      gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_3: -1749388290831996485
+      gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_4: 7344391041410226183
+      gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_5: -4632474328670881909
+      gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_6: -1629027387804561364
+      gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_7: 5838804476854930320
+      gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_8: -4401874474346515239
+      gdparticles_0005_move-particle-effects--using-your-mouse-or-touch_9: 3835172634357881884
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
