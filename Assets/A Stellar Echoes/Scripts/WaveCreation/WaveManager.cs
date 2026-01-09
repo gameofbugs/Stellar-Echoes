@@ -69,6 +69,10 @@ public class WaveManager : MonoBehaviour
             }
 
             currentWave++;
+            if (currentWave > wavesData.Count)
+            {
+                currentWave = 0;
+            }
             yield return new WaitForSeconds(1f); // Small delay between waves
         }
 
